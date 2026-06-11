@@ -135,5 +135,6 @@ software-defined-vehicle-cockpit-safety/
 
 B.Tech Student | Embedded Systems and Software Development Enthusiast
 
-GitHub: @BhargaviKanakapudi
-Linkedin: www.linkedin.com/in/bhargavikanakapudi
+GitHub: [@BhargaviKanakapudi](https://github.com/BhargaviKanakapudi)
+
+LinkedIn: [Bhargavi Kanakapudi](https://www.linkedin.com/in/bhargavikanakapudi)
